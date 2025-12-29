@@ -14,6 +14,9 @@ The purpose of this project was to:
 
 ---
 
+### IMPORTANT ‼️
+Tkinter is required to be externally installed before running this app.
+
 ## 🛠️ Tech Stack
 - **Language:** Python  
 - **GUI:** Tkinter  
